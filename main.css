@@ -1,13 +1,6 @@
-@charset "utf-8";
-/* Style sheet for Project 1 HTML pages.
-Author: Damian Alvarez
-Last modified: June 28th 2024
-File name: main.css
- */
- 
- body {background-color:DodgerBlue;}
- header {background-color:DodgerBlue; font-size:30px; text-align: center;}
- h1 {color: white;}
- section {background-color:Violet; color:white; font-size:15px; width:86%;}
- footer {background-color:white; color:red;}
- nav > ul {background-color:blue; width;25%; padding-left:30px;}
+body {background-color:DodgerBlue;}
+header {background-color:DodgerBlue; font-size:30px; text-align: center;}
+h1 {color: white;}
+section {background-color:Violet; color:white; font-size:15px; width:86%;}
+footer {background-color:white; color:red;}
+nav > ul {background-color:blue; width:25%; padding-left:30px;}
