@@ -2,5 +2,5 @@ body {background-color:DodgerBlue;}
 header {background-color:DodgerBlue; font-size:30px; text-align: center;}
 h1 {color: white;}
 nav > ul {background-color:blue; width:25%; padding-left:30px;}
-section {background-color:Violet; color:white; font-size:15px; width:86%;}
+section {background-color:green; color:white; font-size:15px; width:86%;}
 footer {background-color:white; color:red;}
